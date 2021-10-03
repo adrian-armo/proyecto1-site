@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/adrian-armo/proyecto1-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-<iframe width='100%' height='800px' src="https://api.mapbox.com/styles/v1/adrian-armo/cku7f541g4h9217mclubvv3r7.html?title=false&access_token=pk.eyJ1IjoiYWRyaWFuLWFybW8iLCJhIjoiY2pmNmI2MDNvMDIxdDR5bXExYzIxbWY4bCJ9.ert2PpLsrDjgPew71AHPtQ&zoomwheel=false#16.78/9.990789/-84.314334" title="Basic" style="border:none;"></iframe>
+<iframe width='100%' height='1000px' src="https://api.mapbox.com/styles/v1/adrian-armo/cku7f541g4h9217mclubvv3r7.html?title=false&access_token=pk.eyJ1IjoiYWRyaWFuLWFybW8iLCJhIjoiY2pmNmI2MDNvMDIxdDR5bXExYzIxbWY4bCJ9.ert2PpLsrDjgPew71AHPtQ&zoomwheel=false#16.78/9.990789/-84.314334" title="Basic" style="border:none;"></iframe>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
